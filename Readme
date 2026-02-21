@@ -42,7 +42,7 @@ Steps To Run The Project :
    --> Step-1 : Install pythonn latest version, and install libraries pandas,numpy,seaborn,matplotlib using pip install command.
    --> Step-2 : For the datasets run the command 
         command :Transport_Analytics_System.py
-        output in :Driver_logs.csv ,Fuel_logs.csv,  Gps_routes_logs.csv,Maintenance_history.csv,Vehicle_details.csv,Delivery_timelines.csv.
+        output in :Driver_logs.csv ,Fuel_logs.csv,  GPS_routes_logs.csv,Maintenance_history.csv,Vehicle_details.csv,Delivery_timelines.csv.
     --> Step-3 : And the data cleaning ,data egineering,EDA,route cost & fuel efficiency analysis codes are in Transport_Analytics.ipynb
     --> Step-4 : Reports And Dashboards are done in Power BI Desktop.
 Project by:
