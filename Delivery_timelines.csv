@@ -1,0 +1,6 @@
+trip_id,planned_time,actual_time,delay_minutes
+T001,120,140,20
+T002,180,175,-5
+T003,150,170,20
+T004,90,120,30
+T005,200,195,-5

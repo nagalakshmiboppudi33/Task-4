@@ -1,0 +1,6 @@
+vehicle_id,vehicle_type,manufacture_year,mileage
+V001,Truck,2018,12
+V002,Van,2020,15
+V003,Bike,2021,40
+V004,Truck,2017,
+V005,Van,2019,14

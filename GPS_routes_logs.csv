@@ -1,0 +1,6 @@
+route_id,route_type,distance_km,traffic_level
+R001,City,120,High
+R002,Highway,300,Low
+R003,Rural,180,Medium
+R004,City,90,High
+R005,Highway,250,Low
